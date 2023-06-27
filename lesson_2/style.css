@@ -1,0 +1,13 @@
+h1 {
+    background: green;
+}
+
+.paragraph_1 {
+    background: blue;
+    font-size: 22px;
+    color: white;
+}
+
+.paragraph_2 {
+    border: 10px solid red;
+}
